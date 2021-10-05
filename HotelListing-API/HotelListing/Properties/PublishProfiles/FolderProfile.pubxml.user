@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-10-04T18:02:12.6135311Z;True|2021-10-04T20:52:46.6945314+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="sqlConnection">
+      <Value>Data Source=DESKTOP-138M33K%3bIntegrated Security=True%3bConnect Timeout=30%3bEncrypt=False%3b Initial Catalog=hoteldb%3b TrustServerCertificate=False%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

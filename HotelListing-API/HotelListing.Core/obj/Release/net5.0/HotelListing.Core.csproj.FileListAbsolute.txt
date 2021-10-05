@@ -1,0 +1,17 @@
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\bin\Release\net5.0\HotelListing.Core.deps.json
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\bin\Release\net5.0\HotelListing.Core.runtimeconfig.json
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\bin\Release\net5.0\HotelListing.Core.runtimeconfig.dev.json
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\bin\Release\net5.0\HotelListing.Core.dll
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\bin\Release\net5.0\ref\HotelListing.Core.dll
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\bin\Release\net5.0\HotelListing.Core.pdb
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\bin\Release\net5.0\HotelListing.Data.dll
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\bin\Release\net5.0\HotelListing.Data.pdb
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\obj\Release\net5.0\HotelListing.Core.csproj.AssemblyReference.cache
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\obj\Release\net5.0\HotelListing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\obj\Release\net5.0\HotelListing.Core.AssemblyInfoInputs.cache
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\obj\Release\net5.0\HotelListing.Core.AssemblyInfo.cs
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\obj\Release\net5.0\HotelListing.Core.csproj.CoreCompileInputs.cache
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\obj\Release\net5.0\HotelListing.Core.dll
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\obj\Release\net5.0\ref\HotelListing.Core.dll
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\obj\Release\net5.0\HotelListing.Core.pdb
+C:\Users\gunes\Desktop\HotelListing-API-dotnet5-16bf1a8d2ed3054fd7ff52c978bdf59a681c514e\HotelListing.Core\obj\Release\net5.0\HotelListing.Core.genruntimeconfig.cache
